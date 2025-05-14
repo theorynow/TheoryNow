@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaDaDaTheoryNow
+- 👋 Hi
 - 👀 I’m interested in developing applications and learning programming!
 
 
