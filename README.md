@@ -1,13 +1,6 @@
 - 👋 Hi
 - 👀 I’m interested in developing applications and learning programming!
 
-
-
-##### 🔥MY STATS!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaDaDaTheoryNow)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ##### Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
